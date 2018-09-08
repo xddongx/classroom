@@ -25,3 +25,4 @@
 - 한승협 https://github.com/hyeop/front-end-start
 - 이청길 https://github.com/aerain/front-end-start
 - 김승주 https://github.com/Chimaek/front-end-start
+- 김동현 https://github.com/xddongx/front-end-start
